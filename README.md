@@ -1,4 +1,4 @@
-# Celebal_internship_assingments
+# Celebal_Internship
 Welcome to my repository for the assignments completed during my internship at Celebal Technologies. This repository contains all the weekly assignments I have worked on.
 
 ## About
