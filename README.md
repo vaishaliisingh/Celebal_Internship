@@ -16,5 +16,6 @@ Star and Snowflake Schemas - Designed and analyzed these schema types for data w
 Change Data Capture (CDC) - Learned methods for tracking and capturing changes in data.
 
 # Project:
-Departmental Average Salary Analysis with Threshold Comparison: Conducted an analysis of average salaries across 10 departments, comparing them against predefined thresholds to identify discrepancies and insights.
+Departmental Average Salary Analysis with Threshold Comparison: 
+Conducted an analysis of average salaries across 10 departments, comparing them against predefined thresholds to identify discrepancies and insights.
 
